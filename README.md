@@ -18,8 +18,9 @@ A repository for analyzing and detecting anomalies in building energy consumptio
    
 This project aims to analyze building energy meter data and detect abnormal consumption patterns (anomalies). Detecting energy anomalies can be crucial for identifying inefficiencies, equipment failures, or unusual usage patterns, which can help building managers decrease energy waste.
 
-2. The repository contains:
+2. Repository Structure
    
 Raw energy meter time-series data
 Jupyter notebooks for analysis and modeling Visualization plots and
-Notebooks (Jupyter)
+CSV files (Data)
+
