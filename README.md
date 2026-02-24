@@ -5,13 +5,21 @@ A repository for analyzing and detecting anomalies in building energy consumptio
 # Table of Contents
 
 • About the Project
+
 • Repository Structure
+
 • Dataset
+
 • Requirements
+
 • Installation
+
 • Usage
+
 • Notebooks Overview
+
 • Example Workflow
+
 • Plotting and Outputs
 
 1. About the Project
